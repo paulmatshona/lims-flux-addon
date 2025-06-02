@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+flask_migrate
+flask_cors
+pandas
+numpy
+scikit-learn
+sqlalchemy
+psycopg2-binary
+gunicorn
+python-dotenv
